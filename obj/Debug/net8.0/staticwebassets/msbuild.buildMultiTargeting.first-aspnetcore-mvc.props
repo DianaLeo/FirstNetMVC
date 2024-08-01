@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/first-aspnetcore-mvc.props" />
+</Project>
